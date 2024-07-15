@@ -1,3 +1,7 @@
 
 /xmem_checkpoint
 /sam_checkpoint
+main.ipynb
+*.pyc
+*.jpg
+tremor_detection.ipynb
