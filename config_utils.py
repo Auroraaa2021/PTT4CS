@@ -17,6 +17,7 @@ def read_yaml_config(argv):
         args_dict.update(config)
     return args_dict
 
+
 def set_defaults_with_yaml_config(parser, argv):
     config = read_yaml_config(argv)
     for action in parser._actions:
