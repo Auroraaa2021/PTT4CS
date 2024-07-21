@@ -14,3 +14,8 @@ av
 openmim
 tqdm
 psutil
+pandas
+matplotlib
+scipy
+requests
+pyyaml
