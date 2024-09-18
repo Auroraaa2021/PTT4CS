@@ -2,4 +2,5 @@
 /sam_checkpoint
 *.pyc
 *.jpg
+/outerr
 /output
