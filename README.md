@@ -1,8 +1,4 @@
 
-<h1 align="center">
-Precise Tool Tracking for Cataract Surgery
-</h1>
-
 ![Alt text](https://github.com/Auroraaa2021/PTT4CS/blob/main/slides/Final%20Pre%20CS_page-0001.jpg)
 ![Alt text](https://github.com/Auroraaa2021/PTT4CS/blob/main/slides/Final%20Pre%20CS_page-0002.jpg)
 ![Alt text](https://github.com/Auroraaa2021/PTT4CS/blob/main/slides/Final%20Pre%20CS_page-0003.jpg)
