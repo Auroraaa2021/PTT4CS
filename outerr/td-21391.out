@@ -1,4 +1,0 @@
-Total images loaded: 33
-Initializing BaseSegmenter to cuda
-Hyperparameters read from the model weights: C^k=64, C^v=512, C^h=64
-Single object mode: False

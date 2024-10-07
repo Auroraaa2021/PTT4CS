@@ -1,6 +1,5 @@
 /xmem_checkpoint
 /sam_checkpoint
 *.pyc
-*.jpg
 /outerr
 /output
