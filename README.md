@@ -1,7 +1,10 @@
-# PTT4CS
+
+<h1 align="center">
 Precise Tool Tracking for Cataract Surgery
+</h1>
 
-pretrained models need be downloaded from corresponding github repo
+<div align="center">
 
-### Tremor Detection
-To run tremor_detection.py, use 'sbatch --job-name=td --output=td-%A.out --error=td-%A.err --nodelist=corellia,dagobah --mail-type=ALL --mail-user=<your_email_address> tremor_detection.sh'
+
+
+</div>
